@@ -1,4 +1,25 @@
-5042909748252
+28543430050008
+SamacSys_Parts
+78210035JVC
+782100/35JVC-2
+Transformer
+0
+6
+6
+SamacSys_Parts
+DIOM5126X265N
+SMA
+Diode
+0
+2
+2
+SamacSys_Parts
+FDBL9401F085T6
+H−PSOF8L 11.68x9.80 CASE 100CU ISSUE B
+MOSFET (N-Channel)
+0
+13
+13
 SamacSys_Parts
 G3R40MT12J
 TO-263-7 _2022
@@ -7,6 +28,13 @@ MOSFET (N-Channel)
 8
 8
 SamacSys_Parts
+LS1013B24R3
+LS10-13B24R3-2
+Power Supply
+0
+6
+6
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
@@ -14,9 +42,79 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
+PBO3C15
+PBO-3C-15-4
+Power Supply
+0
+6
+6
+SamacSys_Parts
+QFP50P700X700X120-32N
+PBS (S-PQFP-G32)
+Integrated Circuit
+0
+32
+32
+SamacSys_Parts
 SOIC127P1030X265-16N
-DW0016B
+DW0016A
 Integrated Circuit
 0
 16
 16
+SamacSys_Parts
+SOIC127P1030X265-20N
+DW0020A
+Integrated Circuit
+0
+20
+20
+SamacSys_Parts
+SON95P300X300X80-7N-D
+DRS (S-PWSON-N6)
+Integrated Circuit
+0
+7
+7
+SamacSys_Parts
+SOP50P490X110-10N
+DGS (S-PDSO-G10)
+Integrated Circuit
+0
+10
+10
+SamacSys_Parts
+SOP50P490X110-11N
+DGQ0010H_1
+Integrated Circuit
+0
+11
+11
+SamacSys_Parts
+SOP65P640X120-20N
+pw(r-pdso-g20)
+Integrated Circuit
+0
+20
+20
+SamacSys_Parts
+SOP65P640X120-24N
+PW0024A
+Integrated Circuit
+0
+24
+24
+SamacSys_Parts
+SOT95P237X112-3N
+SOT-23 _
+Integrated Circuit
+0
+3
+3
+SamacSys_Parts
+TX1ZB1445CED
+TX1-ZB1445-CED-2
+Transformer
+0
+8
+8
